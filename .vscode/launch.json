@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BlogserverApplication<blogserver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.sang.BlogserverApplication",
+            "projectName": "blogserver",
+            "args": ""
+        }
+    ]
+}
